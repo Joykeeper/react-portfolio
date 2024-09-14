@@ -13,8 +13,8 @@ export const projects = [
     description:"A portfolio-blogging website built for myself. Here you can find information about me, my projects and the blogposts I have written. Also, there is a Newletter page which is an AI project which is currently in production.",
     image: '/images/mywebsite.png',
     tags: ['Next', 'JavaScript', 'Firebase'],
-    source: 'https://google.com',
-    visit: 'https://google.com',
+    source: 'https://github.com/Joykeeper/My-Website',
+    visit: 'https://mywebsite-joykeepers-projects.vercel.app/aboutMe',
     id: 1,
   },
   {
@@ -22,8 +22,8 @@ export const projects = [
     description: "Welcome to Magician Fest, a thrilling rogue-like dungeon crawler where you take on the role of a powerful magician. Choose between two unique magic staffs, each offering different skills, and battle through increasingly challenging rooms filled with enemies. The deeper you delve, the tougher the opponents, with epic boss battles waiting at the end of each level. The game is endless, providing a relentless challenge as you strive to achieve the highest score.",
       image: '/images/magicianfest.png',
       tags: ['C++', 'SFML'],
-    source: 'https://google.com',
-    visit: 'https://google.com',
+    source: 'https://github.com/Joykeeper/top-down-shooter',
+    visit: 'https://vladplayswatch.itch.io/magicianfest',
     id: 2,
   },
   {
@@ -31,8 +31,8 @@ export const projects = [
     description: "This is a top-down shooter made using Python. It's an arcade game where your goal is to survive as long as you can, killing monsters coming from everywhere to earn points. After losing you can spend those points to buy different weapons and outfits. This project taught me to leverage the power of OOP.",
     image: '/images/westernshooter.png',
     tags: ['Python', 'PyGame'],
-    source: 'https://google.com',
-    visit: 'https://google.com',
+    source: 'https://github.com/Joykeeper/western-shooter',
+    visit: 'https://vladplayswatch.itch.io/western-shooter',
     id: 3,
   },
 ];
